@@ -1,0 +1,2 @@
+# Trace-an-Angular-Weather-Feature-from-Component-to-Reactive-Data-course-code
+Learn the Angular weather feature data flow from a typed component model to service-based HTTP retrieval and reactive RxJS data transformation. In this concise applied lesson, you’ll trace a Lisbon weather request and see how presentation, API access, and response shaping work together in a standalone LocalCast Weather feature. You’ll learn how to:
